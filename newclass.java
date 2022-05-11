@@ -1,5 +1,6 @@
 public newclass{
         int a,b;
+        float c,d,e;
 public:
         newclass(int a,b){
         this.a=a;
